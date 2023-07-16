@@ -13,7 +13,7 @@ export const nav = [
   },
   {
     text: "Terms and Conditions",
-    path: "/blog",
+    path: "/terms",
   },
   {
     text: "Blog",
