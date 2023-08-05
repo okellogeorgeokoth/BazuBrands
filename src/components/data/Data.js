@@ -16,14 +16,6 @@ export const nav = [
     path: "/terms",
   },
   {
-    text: "Blog",
-    path: "/blog",
-  },
-  {
-    text: "Property Management",
-    path: "/pricing",
-  },
-  {
     text: "contact",
     path: "/contact",
   },
@@ -32,27 +24,27 @@ export const featured = [
   {
     cover: "../images/hero/h1.png",
     name: "Family House",
-    total: "122 Property",
+    total: "12 Property",
   },
   {
     cover: "../images/hero/h2.png",
     name: "House & Villa",
-    total: "155 Property",
+    total: "15 Property",
   },
   {
     cover: "../images/hero/h3.png",
     name: "Apartment",
-    total: "300 Property",
+    total: "30 Property",
   },
   {
     cover: "../images/hero/h4.png",
     name: "Office & Studio",
-    total: "80 Property",
+    total: "28 Property",
   },
   {
     cover: "../images/hero/h6.png",
     name: "Villa & Condo",
-    total: "80 Property",
+    total: "18 Property",
   },
 ]
 export const list = [
@@ -60,58 +52,58 @@ export const list = [
     id: 1,
     cover: "../images/list/p-1.png",
     name: "Red Carpet Real Estate",
-    location: "210 Zirak Road, Canada",
+    location: "Nairobi, Kenya",
     category: "For Rent",
-    price: "$3,700",
+    price: "Ksh 33,700",
     type: "Apartment",
   },
   {
     id: 2,
     cover: "../images/list/p-2.png",
     name: "Fairmount Properties",
-    location: "5698 Zirak Road, NewYork",
+    location: "Nairobi, Kenya",
     category: "For Sale",
-    price: "$9,750",
+    price: "Ksh 39,750",
     type: "Condos",
   },
   {
     id: 3,
     cover: "../images/list/p-7.png",
     name: "The Real Estate Corner",
-    location: "5624 Mooker Market, USA",
+    location: "Nairobi, Kenya",
     category: "For Rent",
-    price: "$5,860",
+    price: "Ksh 55,860",
     type: "Offices",
   },
   {
     id: 4,
     cover: "../images/list/p-4.png",
     name: "Herringbone Realty",
-    location: "5621 Liverpool, London",
+    location: "Kajiado, Kenya",
     category: "For Sale",
-    price: "$7,540",
+    price: "Ksh 27,540",
     type: "Homes & Villas",
   },
   {
     id: 5,
     cover: "../images/list/p-5.png",
     name: "Brick Lane Realty",
-    location: "210 Montreal Road, Canada",
+    location: "Nairobi, Kenya",
     category: "For Rent",
-    price: "$4,850",
+    price: "Ksh 44,850",
     type: "Commercial",
   },
   {
     id: 6,
     cover: "../images/list/p-6.png",
     name: "Banyon Tree Realty",
-    location: "210 Zirak Road, Canada",
+    location: "Nyali, Mombasa",
     category: "For Sale",
-    price: "$2,742",
+    price: "Ksh 42,742",
     type: "Apartment",
   },
 ]
-export const awards = [
+/*export const awards = [
   {
     icon: <i class='fa-solid fa-trophy'></i>,
     num: "32 M	",
@@ -132,7 +124,7 @@ export const awards = [
     num: "42 M",
     name: "IITCA Green Award",
   },
-]
+]*/
 export const location = [
   {
     id: 1,
@@ -183,7 +175,7 @@ export const location = [
     cover: "./images/location/city-6.png",
   },
 ]
-export const team = [
+/*export const team = [
   {
     list: "50",
     cover: "../images/customer/team-1.jpg",
@@ -226,8 +218,8 @@ export const team = [
     name: "Adam K. Jollio",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
-]
-export const price = [
+]*/
+/*export const price = [
   {
     plan: "Basic",
     price: "29",
@@ -305,8 +297,8 @@ export const price = [
       },
     ],
   },
-]
-export const footer = [
+]*/
+/*export const footer = [
   {
     title: "LAYOUTS",
     text: [{ list: "Home Page" }, { list: "About Page" }, { list: "Service Page" }, { list: "Property Page" }, { list: "Contact Page" }, { list: "Single Blog" }],
@@ -319,4 +311,4 @@ export const footer = [
     title: "COMPANY",
     text: [{ list: "About" }, { list: "Blog" }, { list: "Pricing" }, { list: "Affiliate" }, { list: "Login" }, { list: "Changelog" }],
   },
-]
+]*/

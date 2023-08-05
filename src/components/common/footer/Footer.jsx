@@ -16,7 +16,7 @@ const Footer = () => {
         </div>
       </section>
       <div className='legal'>
-        <span>© 2023 BazuProperties. Designd By SteGe.</span>
+        <span>© 2023 BazuBrandsProperties. Designed By SteGe.</span>
       </div>
     </>
   )
