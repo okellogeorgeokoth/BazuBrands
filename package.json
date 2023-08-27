@@ -1,5 +1,6 @@
 {
-  "name": "real-estate",
+  "name": "bazuproperties",
+  "homepage": "https://bazuproperties.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
