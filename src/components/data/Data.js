@@ -50,6 +50,15 @@ export const featured = [
 export const list = [
   {
     id: 1,
+    cover: "../images/list/12.jpg",
+    name: "3 Bedroom Bungalow for sale, ",
+    location: "Kitengela Acacia Peugeot Sacco, Kenya",
+    category: "For Sale",
+    price: "Ksh  5,850,000",
+    type: "Bungalow",
+  },
+  {
+    id: 1,
     cover: "../images/list/p-1.png",
     name: "Red Carpet Real Estate",
     location: "Nairobi, Kenya",

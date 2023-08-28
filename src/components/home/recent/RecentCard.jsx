@@ -17,14 +17,14 @@ const RecentCard = () => {
                   <span style={{ background: category === "For Sale" ? "#25b5791a" : "#ff98001a", color: category === "For Sale" ? "#25b579" : "#ff9800" }}>{category}</span>
                   <i className='fa fa-heart'></i>
                 </div>
-                <h4>{name}</h4>
+                <h3>{name}</h3>
                 <p>
                   <i className='fa fa-location-dot'></i> {location}
                 </p>
               </div>
               <div className='button flex'>
                 <div>
-                  <button className='btn2'>{price}</button> <label htmlFor=''>/sqft</label>
+                  <button className='btn2'>{price}</button> <label htmlFor=''></label>
                 </div>
                 <span>{type}</span>
               </div>
