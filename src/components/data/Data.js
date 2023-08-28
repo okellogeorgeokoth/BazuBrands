@@ -219,7 +219,7 @@ export const location = [
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
 ]*/
-/*export const price = [
+export const price = [
   {
     plan: "Basic",
     price: "29",
@@ -297,7 +297,7 @@ export const location = [
       },
     ],
   },
-]*/
+]
 /*export const footer = [
   {
     title: "LAYOUTS",
